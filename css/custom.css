@@ -1,5 +1,5 @@
 .bg-main {
-	background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)); 
+	background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/job-search.jpg) no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

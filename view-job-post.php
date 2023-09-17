@@ -28,9 +28,8 @@ require_once("db.php");
   <link rel="stylesheet" href="css/custom.css">
   <!-- Google Font -->
   <link rel="stylesheet"
-    href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
-    
-  </head>
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+</head>
 <body class="hold-transition skin-green sidebar-mini">
 <div class="wrapper">
 
