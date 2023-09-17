@@ -2,10 +2,9 @@
 Introduction
 A career portal is an online platform that connects job seekers with potential employers. This project implements a career portal for a specific company, allowing users to browse available job positions, view details, and apply accordingly. The system includes a website for applicants and a backend system for administrators to manage the portal efficiently.
 
-Features
+# Features
 Backend System
 User Authentication:
-
 Two user roles: Admin and User.
 Users can change their passwords and profile details.
 Administrator Functionalities:
